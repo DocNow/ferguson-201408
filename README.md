@@ -2,9 +2,7 @@ This is a view of the most retweeted tweets that mention Ferguson, that still ex
 
 Here are the steps I took to generate the top 500 retweeted tweets from the list
 of ids. You'll need to install [twarc](https://github.com/docnow/twarc) and
-[csvkit](https://csvkit.readthedocs.io/) to do follow along. One thing you'll
-notice is that there is an effort to remove tweets about Alex Ferguson, the
-football player, that were happening at the same time. 
+[csvkit](https://csvkit.readthedocs.io/) to do follow along.
 
 1. Get the dataset of tweet identifiers.
 
