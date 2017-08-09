@@ -1,4 +1,9 @@
-This is a view of the most retweeted tweets that mention Ferguson, that still exist, and were sent August 8-10, 2014. The dataset of tweet ids and a description of how it was collected can be found at the [Internet Archive](https://archive.org/details/ferguson-201408). Of the original 32,056 tweets collected 14% have been deleted or their accounts have been protected as of August 9, 2017.
+[This](https://edsu.github.io/ferguson-201408) is a view of the most retweeted
+tweets that mention Ferguson, that still exist, and were sent August 8-10, 2014.
+The dataset of tweet ids and a description of how it was collected can be found
+at the [Internet Archive](https://archive.org/details/ferguson-201408). Of the
+original 32,056 tweets collected 14% have been deleted or their accounts have
+been protected as of August 9, 2017.
 
 Here are the steps I took to generate the top 500 retweeted tweets from the list
 of ids. You'll need to install [twarc](https://github.com/docnow/twarc) and
